@@ -1,4 +1,4 @@
-**Dataset:** [Insert Dataset Link Here](YOUR_DATASET_LINK)
+**Dataset:** (https://www.kaggle.com/datasets/banuprasadb/wildlife-dataset)
 
 # YOLOv8 Animal Object Detection Pipeline
 
